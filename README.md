@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
 <a href="https://www.linkedin.com/in/sergio-galera-alquegui-3b5a21157/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Sergio Galera-white?style=flat&logo=linkedin&labelColor=blue&logoColor=white"/></a>
-<a href="https://www.instagram.com/sergioogaleraa"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40sergioogaleraa-grey?style=flat&logo=instagram&logoColor=red&labelColor=grey"/></a>
+<a href="https://www.instagram.com/sergioogaleraa"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40sergioogaleraa-red?style=flat&logo=instagram&logoColor=red&labelColor=grey"/></a>
 <a href="https://twitter.com/sergioogaleraa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-sergioogaleraa-blue?style=flat&logo=twitter&labelColor=white"/></a>
 </p>
 
