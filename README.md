@@ -1,6 +1,7 @@
 ### Hi there 👋
 <p align="center">
-<a href="https://twitter.com/sergioogaleraa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-sergioogaleraa-blue?style=flat"/></a>
+<a href="https://www.linkedin.com/in/sergio-galera-alquegui-3b5a21157/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Sergio Galera-blue?style=flat&logo=linkedin"/></a>
+<a href="https://twitter.com/sergioogaleraa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-sergioogaleraa-blue?style=flat&logo=twitter"/></a>
 </p>
 
 <!--
