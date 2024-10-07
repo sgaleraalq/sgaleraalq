@@ -6,8 +6,8 @@
 </p>
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgaleraalq&bg_color=030712&icon_color=672eca&text_color=c8c8ca&hide_border=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sgaleraalq&theme=dark&border_radius=5&card_width=500)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgaleraalq&bg_color=030712&icon_color=672eca&text_color=c8c8ca&hide_border=true)<br/> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sgaleraalq&theme=dark&border_radius=5&card_width=500)<br/>
+
 
 
 <!--
