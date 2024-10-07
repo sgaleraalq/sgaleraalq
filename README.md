@@ -5,6 +5,11 @@
 <a href="https://twitter.com/sergioogaleraa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@sergioogaleraa-blue?style=flat&logo=twitter&labelColor=white"/></a>
 </p>
 
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgaleraalq&bg_color=030712&icon_color=672eca&text_color=c8c8ca&hide_border=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sgaleraalq&theme=dark&border_radius=5&card_width=500)<br/>
+
+
 <!--
 **sgaleraalq/sgaleraalq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
